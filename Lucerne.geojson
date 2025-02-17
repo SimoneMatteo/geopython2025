@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Lucerne",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 8.184031492734336, 47.111421311664031 ], [ 8.558881463318153, 47.120761758108934 ], [ 8.591828136343889, 46.798321812798896 ], [ 8.202521401877354, 46.791068510844063 ], [ 8.184031492734336, 47.111421311664031 ] ] ] } }
+]
+}
